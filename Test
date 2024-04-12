@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Your Bookstore Name - About Us</title>
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header aria-label="Main Website Header">
+    <h1><a href="index.html">Your Bookstore Name</a></h1>
+    <nav aria-label="Main Navigation Menu">
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Shop</a></li>
+        <li><a href="#">About Us</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main role="main">
+    <section class="hero" aria-labelledby="about-us-hero">
+      <h1 id="about-us-hero">About Your Bookstore Name</h1>
+      <p>Welcome to Your Bookstore Name, your one-stop shop for self-published books! We're passionate about giving authors a platform and readers access to a diverse range of stories.</p>
+      <img src="placeholder.jpg" alt="Placeholder image of bookstore" aria-hidden="true">
+    </section>
+    
+    <section aria-labelledby="about-us-content">
+      <h2 id="about-us-content">Our Story</h2>
+      <p> This is where you can tell the story of your bookstore. How did it begin? What inspired you to create a platform for self-published authors? 
+      </p>
+      <h2>Mission and Values</h2>
+      <p> Here you can explain your mission statement and the core values that guide your business. What are you passionate about achieving?
+      </p>
+      <h2>Meet Our Team</h2>
+      <p> Introduce the people behind
